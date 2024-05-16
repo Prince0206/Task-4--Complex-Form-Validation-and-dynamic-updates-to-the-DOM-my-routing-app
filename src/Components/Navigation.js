@@ -23,7 +23,9 @@ const StyledLink = styled(Link)`
 
 const Navigation = () => (
   <NavContainer>
+    
     <StyledLink  to="/">Home</StyledLink > 
+    <h1>STUDENT MANAGMENT FORM</h1>
     <StyledLink to="/About">About</StyledLink>
     {/* Add more navigation links */}
   </NavContainer>
